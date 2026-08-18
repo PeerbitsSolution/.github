@@ -1,6 +1,6 @@
 # Peerbits
 
-Healthcare Engineering Specialists
+**Healthcare Engineering Specialists**
 
 Peerbits builds production-grade healthcare software and publishes reusable open-source components for modern HealthTech platforms.
 
@@ -12,11 +12,11 @@ Our open-source work focuses on practical engineering problems across interopera
 
 | Domain | Focus |
 |---|---|
-| Healthcare Interoperability | FHIR, SMART on FHIR, HL7, Healthcare APIs |
-| Clinical AI | Clinical Documentation, Transcripts, AI Workflows |
-| Digital Health | Remote Patient Monitoring, Device Integration |
-| Healthcare Workflows | Prior Authorization, Workflow Automation |
-| Clinical Data | Terminology, Validation, Healthcare Data Models |
+| **Healthcare Interoperability** | FHIR, SMART on FHIR, HL7, Healthcare APIs |
+| **Clinical AI** | Clinical Documentation, Transcripts, AI Workflows |
+| **Digital Health** | Remote Patient Monitoring, Device Integration |
+| **Healthcare Workflow**s | Prior Authorization, Workflow Automation |
+| **Clinical Data** | Terminology, Validation, Healthcare Data Models |
 
 ---
 
